@@ -1,0 +1,10 @@
+Package: MORECATS
+Type: Package
+Title: MORECATS
+Version: 0.1.0
+Author: Me (Carlee Bettler)
+Maintainer: Carlee Bettler <cbettler@luc.edu>
+Description: Amazing things, it does 
+License: A license
+Encoding: UTF-8
+LazyData: true
